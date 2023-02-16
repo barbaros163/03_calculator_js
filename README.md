@@ -18,7 +18,7 @@ A passionate Frontend Developer from Anatolien
 
 
 ## 🛠 Skills
-HTML, CSS
+HTML, CSS, JAVASCRIPT
 
 
 ## Demo
