@@ -14,7 +14,7 @@ A passionate Frontend Developer from Anatolien
 
 
 
-# Calculator_without_js
+# Calculator
 
 
 ## 🛠 Skills
@@ -22,7 +22,7 @@ HTML, CSS
 
 
 ## Demo
-
+Coming Soon
 
 ## Feedback
 
